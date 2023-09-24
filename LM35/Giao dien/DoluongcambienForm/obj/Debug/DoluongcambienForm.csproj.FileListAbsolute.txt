@@ -1,0 +1,28 @@
+D:\Visual 2015\DoluongcambienForm\DoluongcambienForm\bin\Debug\DoluongcambienForm.exe.config
+D:\Visual 2015\DoluongcambienForm\DoluongcambienForm\obj\Debug\DoluongcambienForm.csprojResolveAssemblyReference.cache
+D:\Visual 2015\DoluongcambienForm\DoluongcambienForm\obj\Debug\DoluongcambienForm.Form1.resources
+D:\Visual 2015\DoluongcambienForm\DoluongcambienForm\obj\Debug\DoluongcambienForm.Formdangnhap.resources
+D:\Visual 2015\DoluongcambienForm\DoluongcambienForm\obj\Debug\DoluongcambienForm.Properties.Resources.resources
+D:\Visual 2015\DoluongcambienForm\DoluongcambienForm\obj\Debug\DoluongcambienForm.csproj.GenerateResource.Cache
+D:\Visual 2015\DoluongcambienForm\DoluongcambienForm\bin\Debug\DoluongcambienForm.exe
+D:\Visual 2015\DoluongcambienForm\DoluongcambienForm\bin\Debug\DoluongcambienForm.pdb
+D:\Visual 2015\DoluongcambienForm\DoluongcambienForm\obj\Debug\DoluongcambienForm.exe
+D:\Visual 2015\DoluongcambienForm\DoluongcambienForm\obj\Debug\DoluongcambienForm.pdb
+C:\Users\Admins\Downloads\DoLuongcambien-20220403T085348Z-001\DoLuongcambien\DoluongcambienForm\DoluongcambienForm\DoluongcambienForm\bin\Debug\DoluongcambienForm.exe.config
+C:\Users\Admins\Downloads\DoLuongcambien-20220403T085348Z-001\DoLuongcambien\DoluongcambienForm\DoluongcambienForm\DoluongcambienForm\obj\Debug\DoluongcambienForm.exe
+C:\Users\Admins\Downloads\DoLuongcambien-20220403T085348Z-001\DoLuongcambien\DoluongcambienForm\DoluongcambienForm\DoluongcambienForm\obj\Debug\DoluongcambienForm.pdb
+D:\Visual 2015\DoluongcambienForm\DoluongcambienForm\obj\Debug\DoluongcambienForm.Form2.resources
+D:\MR.Tan\Visual 2015\DoluongcambienForm\DoluongcambienForm\bin\Debug\DoluongcambienForm.exe.config
+D:\MR.Tan\Visual 2015\DoluongcambienForm\DoluongcambienForm\obj\Debug\DoluongcambienForm.exe
+D:\MR.Tan\Visual 2015\DoluongcambienForm\DoluongcambienForm\obj\Debug\DoluongcambienForm.pdb
+D:\MR.Tan\Visual 2015\DoluongcambienForm\DoluongcambienForm\bin\Debug\DoluongcambienForm.exe
+D:\MR.Tan\Visual 2015\DoluongcambienForm\DoluongcambienForm\bin\Debug\DoluongcambienForm.pdb
+D:\MR.Tan\Visual 2015\DoluongcambienForm\DoluongcambienForm\obj\Debug\DoluongcambienForm.csprojResolveAssemblyReference.cache
+D:\MR.Tan\Visual 2015\DoluongcambienForm\DoluongcambienForm\obj\Debug\DoluongcambienForm.Form1.resources
+D:\MR.Tan\Visual 2015\DoluongcambienForm\DoluongcambienForm\obj\Debug\DoluongcambienForm.Form2.resources
+D:\MR.Tan\Visual 2015\DoluongcambienForm\DoluongcambienForm\obj\Debug\DoluongcambienForm.Formdangnhap.resources
+D:\MR.Tan\Visual 2015\DoluongcambienForm\DoluongcambienForm\obj\Debug\DoluongcambienForm.Properties.Resources.resources
+D:\MR.Tan\Visual 2015\DoluongcambienForm\DoluongcambienForm\obj\Debug\DoluongcambienForm.csproj.GenerateResource.Cache
+D:\MR.Tan\Visual 2015\Nhietdo_doambaocao\DoluongcambienForm\bin\Debug\DoluongcambienForm.exe.config
+D:\MR.Tan\Visual 2015\Nhietdo_doambaocao\DoluongcambienForm\obj\Debug\DoluongcambienForm.exe
+D:\MR.Tan\Visual 2015\Nhietdo_doambaocao\DoluongcambienForm\obj\Debug\DoluongcambienForm.pdb

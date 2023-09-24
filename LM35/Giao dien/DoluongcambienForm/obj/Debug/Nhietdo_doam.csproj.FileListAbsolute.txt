@@ -1,0 +1,40 @@
+D:\MR.Tan\Visual 2015\Nhietdo_doambaocao\DoluongcambienForm\bin\Debug\DoluongcambienForm.exe.config
+D:\MR.Tan\Visual 2015\Nhietdo_doambaocao\DoluongcambienForm\obj\Debug\DoluongcambienForm.exe
+D:\MR.Tan\Visual 2015\Nhietdo_doambaocao\DoluongcambienForm\obj\Debug\DoluongcambienForm.pdb
+D:\MR.Tan\Visual 2015\Nhietdo_doambaocao\DoluongcambienForm\bin\Debug\DoluongcambienForm.exe
+D:\MR.Tan\Visual 2015\Nhietdo_doambaocao\DoluongcambienForm\bin\Debug\DoluongcambienForm.pdb
+D:\MR.Tan\Visual 2015\Nhietdo_doambaocao\DoluongcambienForm\bin\Debug\ZedGraph.dll
+D:\MR.Tan\Visual 2015\Nhietdo_doambaocao\DoluongcambienForm\obj\Debug\Nhietdo_doam.csprojResolveAssemblyReference.cache
+D:\MR.Tan\Visual 2015\Nhietdo_doambaocao\DoluongcambienForm\obj\Debug\DoluongcambienForm.Form1.resources
+D:\MR.Tan\Visual 2015\Nhietdo_doambaocao\DoluongcambienForm\obj\Debug\DoluongcambienForm.Form2.resources
+D:\MR.Tan\Visual 2015\Nhietdo_doambaocao\DoluongcambienForm\obj\Debug\DoluongcambienForm.Formdangnhap.resources
+D:\MR.Tan\Visual 2015\Nhietdo_doambaocao\DoluongcambienForm\obj\Debug\DoluongcambienForm.Properties.Resources.resources
+D:\MR.Tan\Visual 2015\Nhietdo_doambaocao\DoluongcambienForm\obj\Debug\Nhietdo_doam.csproj.GenerateResource.Cache
+D:\18118125_NguyenMinhTan\Nhietdo_doambaocao\DoluongcambienForm\bin\Debug\DoluongcambienForm.exe.config
+D:\18118125_NguyenMinhTan\Nhietdo_doambaocao\DoluongcambienForm\obj\Debug\DoluongcambienForm.exe
+D:\18118125_NguyenMinhTan\Nhietdo_doambaocao\DoluongcambienForm\obj\Debug\DoluongcambienForm.pdb
+D:\18118125_NguyenMinhTan\Nhietdo_LM35\Giao dien\DoluongcambienForm\bin\Debug\DoluongcambienForm.exe.config
+D:\18118125_NguyenMinhTan\Nhietdo_LM35\Giao dien\DoluongcambienForm\obj\Debug\DoluongcambienForm.exe
+D:\18118125_NguyenMinhTan\Nhietdo_LM35\Giao dien\DoluongcambienForm\obj\Debug\DoluongcambienForm.pdb
+D:\18118125_NguyenMinhTan\Nhietdo_LM35\Giao dien\DoluongcambienForm\bin\Debug\DoluongcambienForm.exe
+D:\18118125_NguyenMinhTan\Nhietdo_LM35\Giao dien\DoluongcambienForm\bin\Debug\DoluongcambienForm.pdb
+D:\18118125_NguyenMinhTan\Nhietdo_LM35\Giao dien\DoluongcambienForm\bin\Debug\ZedGraph.dll
+D:\18118125_NguyenMinhTan\Nhietdo_LM35\Giao dien\DoluongcambienForm\obj\Debug\Nhietdo_doam.csprojResolveAssemblyReference.cache
+D:\18118125_NguyenMinhTan\Nhietdo_LM35\Giao dien\DoluongcambienForm\obj\Debug\DoluongcambienForm.Form1.resources
+D:\18118125_NguyenMinhTan\Nhietdo_LM35\Giao dien\DoluongcambienForm\obj\Debug\DoluongcambienForm.Form2.resources
+D:\18118125_NguyenMinhTan\Nhietdo_LM35\Giao dien\DoluongcambienForm\obj\Debug\DoluongcambienForm.Formdangnhap.resources
+D:\18118125_NguyenMinhTan\Nhietdo_LM35\Giao dien\DoluongcambienForm\obj\Debug\DoluongcambienForm.Properties.Resources.resources
+D:\18118125_NguyenMinhTan\Nhietdo_LM35\Giao dien\DoluongcambienForm\obj\Debug\Nhietdo_doam.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Downloads\Thiết kế mạch-20230117T052543Z-001\Thiết kế mạch\Doluongvadieukhien\Nhietdo_LM35\Giao dien\DoluongcambienForm\bin\Debug\DoluongcambienForm.exe.config
+C:\Users\ADMIN\Downloads\Thiết kế mạch-20230117T052543Z-001\Thiết kế mạch\Doluongvadieukhien\Nhietdo_LM35\Giao dien\DoluongcambienForm\bin\Debug\DoluongcambienForm.exe
+C:\Users\ADMIN\Downloads\Thiết kế mạch-20230117T052543Z-001\Thiết kế mạch\Doluongvadieukhien\Nhietdo_LM35\Giao dien\DoluongcambienForm\bin\Debug\DoluongcambienForm.pdb
+C:\Users\ADMIN\Downloads\Thiết kế mạch-20230117T052543Z-001\Thiết kế mạch\Doluongvadieukhien\Nhietdo_LM35\Giao dien\DoluongcambienForm\obj\Debug\Nhietdo_doam.csprojAssemblyReference.cache
+C:\Users\ADMIN\Downloads\Thiết kế mạch-20230117T052543Z-001\Thiết kế mạch\Doluongvadieukhien\Nhietdo_LM35\Giao dien\DoluongcambienForm\obj\Debug\DoluongcambienForm.Form1.resources
+C:\Users\ADMIN\Downloads\Thiết kế mạch-20230117T052543Z-001\Thiết kế mạch\Doluongvadieukhien\Nhietdo_LM35\Giao dien\DoluongcambienForm\obj\Debug\DoluongcambienForm.Form2.resources
+C:\Users\ADMIN\Downloads\Thiết kế mạch-20230117T052543Z-001\Thiết kế mạch\Doluongvadieukhien\Nhietdo_LM35\Giao dien\DoluongcambienForm\obj\Debug\DoluongcambienForm.Formdangnhap.resources
+C:\Users\ADMIN\Downloads\Thiết kế mạch-20230117T052543Z-001\Thiết kế mạch\Doluongvadieukhien\Nhietdo_LM35\Giao dien\DoluongcambienForm\obj\Debug\DoluongcambienForm.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\Thiết kế mạch-20230117T052543Z-001\Thiết kế mạch\Doluongvadieukhien\Nhietdo_LM35\Giao dien\DoluongcambienForm\obj\Debug\Nhietdo_doam.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\Thiết kế mạch-20230117T052543Z-001\Thiết kế mạch\Doluongvadieukhien\Nhietdo_LM35\Giao dien\DoluongcambienForm\obj\Debug\Nhietdo_doam.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Thiết kế mạch-20230117T052543Z-001\Thiết kế mạch\Doluongvadieukhien\Nhietdo_LM35\Giao dien\DoluongcambienForm\obj\Debug\Nhietdo_doam.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Thiết kế mạch-20230117T052543Z-001\Thiết kế mạch\Doluongvadieukhien\Nhietdo_LM35\Giao dien\DoluongcambienForm\obj\Debug\DoluongcambienForm.exe
+C:\Users\ADMIN\Downloads\Thiết kế mạch-20230117T052543Z-001\Thiết kế mạch\Doluongvadieukhien\Nhietdo_LM35\Giao dien\DoluongcambienForm\obj\Debug\DoluongcambienForm.pdb
